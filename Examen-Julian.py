@@ -23,6 +23,6 @@ while salida!=2:
     except:
         print("Tienes que introducir un número")
 
-    
+print("Has terminado")
 
     
