@@ -15,7 +15,7 @@ def sumanum(num1,num2):
 while salida!=2:
     try:
         imprimir()
-        salida=int(input("Dime la opcion que has elegido: "))
+        salida=int(input("Elige una opción: "))
         if salida==1:
             num1=int(input("Dime el primer número de la suma: "))
             num2=int(input("Dime el segundo número de la suma: "))
